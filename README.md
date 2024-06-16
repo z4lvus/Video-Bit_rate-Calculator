@@ -2,4 +2,4 @@
 
 #Como funciona:
 
-[![Alt text](http://i3.ytimg.com/vi/XiKHIEtQfdE/hqdefault.jpg])](https://www.youtube.com/watch?v=XiKHIEtQfdE)
+[![Alt text](https://i3.ytimg.com/vi/XiKHIEtQfdE/maxresdefault.jpg)](https://www.youtube.com/watch?v=XiKHIEtQfdE)
