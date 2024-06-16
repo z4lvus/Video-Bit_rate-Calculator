@@ -12,4 +12,4 @@ media = 0.06                             #Promedio entre calidad y compresion
 
 alta = 0.05                              #Baja calidad, mayor compresion
 
-[![Alt text](http://i3.ytimg.com/vi/XiKHIEtQfdE/hqdefault.jpg)](https://www.youtube.com/watch?v=XiKHIEtQfdE)
+[![Alt text](https://img.youtube.com/vi/XiKHIEtQfdE/sddefault.jpg)](https://www.youtube.com/watch?v=XiKHIEtQfdE)
