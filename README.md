@@ -12,4 +12,5 @@ media = 0.06                             #Promedio entre calidad y compresion
 
 alta = 0.05                              #Baja calidad, mayor compresion
 
+Video sobre como funciona:
 [![Alt text](https://img.youtube.com/vi/XiKHIEtQfdE/maxresdefault.jpg)](https://www.youtube.com/watch?v=XiKHIEtQfdE)
