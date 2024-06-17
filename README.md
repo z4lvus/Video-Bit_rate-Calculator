@@ -10,11 +10,11 @@ Para seleccionar la calidad deseada debe escribir una de las tres opciones.
 
 **Factor de compresion H265:**
 
-> baja = 0.09               | Alta calidad, menor compresion
+> baja = 0.09               > Alta calidad, menor compresion
 
-> media = 0.07              | Promedio entre calidad y compresion
+> media = 0.07              > Promedio entre calidad y compresion
 
-> alta = 0.06               | Baja calidad, mayor compresion
+> alta = 0.06               > Baja calidad, mayor compresion
 
 **Video de funcionamiento:**
 
