@@ -2,7 +2,8 @@
 
 #Como funciona:
 
-Para seleccionar la calidad deseada debe escribir una de las tres opciones,
+Para seleccionar la calidad deseada debe escribir una de las tres opciones.
+
 Opciones disponibles: alta, media o baja. No importa si es mayuscula o minuscula.
 
 Nota: La calidad va a depender del tipo de video, para videos con mucho movimiento siempre se recomienda elegir la calidad alta.
