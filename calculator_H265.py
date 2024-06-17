@@ -6,11 +6,13 @@ print("#####      #   ####  ##### ")
 print("#   #    #     #  #      # ")
 print("#   # o #####  ####  ##### ")
 print("\n") #Salto de linea
+print("Nota: La calidad va a depender del tipo de video,\npara videos con mucho movimiento siempre se recomienda elegir la calidad alta.")
+print("\n")
 
 #Factor de compresion H265
-EF_baja = 0.07                              #Alta calidad, menor compresion
-EF_media = 0.06                             #Promedio entre calidad y compresion
-EF_alta = 0.05                              #Baja calidad, mayor compresion
+EF_baja = 0.09                              #Alta calidad, menor compresion
+EF_media = 0.07                             #Promedio entre calidad y compresion
+EF_alta = 0.06                              #Baja calidad, mayor compresion
 
 mbps_conversion = 1000000
 
