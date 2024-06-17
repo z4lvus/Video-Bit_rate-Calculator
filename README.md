@@ -1,6 +1,6 @@
-### **Calculadora de video Bit Rate para codec H.265 v1.0 by !z4lvus**
+## **Calculadora de video Bit Rate para codec H.265 v1.0 by !z4lvus**
 
-## **Como funciona:**
+### **Como funciona:**
 
 Para seleccionar la calidad deseada debe escribir una de las tres opciones.
 
