@@ -1,4 +1,4 @@
-#Calculadora de video Bit Rate para codec H.265 by !z4lvus
+#Calculadora de video Bit Rate para codec H.265 v1.0 by !z4lvus
 
 #Como funciona:
 
@@ -7,11 +7,11 @@ Opciones disponibles: alta, media o baja     #No importa si es mayuscula o minus
 
 #Factor de compresion H265
 
-baja = 0.07                              #Alta calidad, menor compresion
+baja = 0.09                              #Alta calidad, menor compresion
 
-media = 0.06                             #Promedio entre calidad y compresion
+media = 0.07                             #Promedio entre calidad y compresion
 
-alta = 0.05                              #Baja calidad, mayor compresion
+alta = 0.06                              #Baja calidad, mayor compresion
 
 #Video de funcionamiento:
 
