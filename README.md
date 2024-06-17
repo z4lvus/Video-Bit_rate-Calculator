@@ -14,7 +14,7 @@ Para seleccionar la calidad deseada debe escribir una de las tres opciones.
 
 > media = 0.07____________Promedio entre calidad y compresion
 
-> alta = 0.06______________Baja calidad, mayor compresion
+> alta = 0.06_______________Baja calidad, mayor compresion
 
 **Video de funcionamiento:**
 
